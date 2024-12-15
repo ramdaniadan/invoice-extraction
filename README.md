@@ -87,11 +87,7 @@ pip install pdfplumber pandas
 
 2. Place your PDF files in the `Data` folder.
 
-3. Run the script:
-
-   ```bash
-   python extract_invoice_data.py
-   ```
+3. Double click `run_invoice_extraction.bat` to run script.
 
 4. Check the `Result` folder for the generated Excel file.
 
